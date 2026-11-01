@@ -2,6 +2,10 @@
 
 Neon-noir setup for [Herdr](https://herdr.dev): a deep violet palette with neon cyan, hot magenta, and yellow/red status colors, a CPU/memory/battery readout in the tab bar, and a plugin that shows each coding agent as its logo instead of its name.
 
+## Screenshot
+
+![Herdr with the cyberpunk theme: neon-framed panes, agent logos in the sidebar, and the NEON//NET tab-bar readout](docs/screenshot.png)
+
 ## Install with your coding agent
 
 Paste this into Claude Code, Codex, Gemini CLI, or any coding agent running on the machine where Herdr is installed:
